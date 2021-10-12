@@ -1,6 +1,8 @@
 # Statistics_TA
-A repository for TA classes of fall 2021 semester
 
+<div align='center'>
+      <img src='icons/Statistics2.png' />
+</div>
 
 ## Introduction
 
