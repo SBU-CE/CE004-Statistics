@@ -15,7 +15,7 @@ Dr. Farshad Safaei
 ## TAs:
 
 * [Alireza Chagh-mirzaei](https://github.com/achm25)
-* [Alireza Zamani]()
+* [Alireza Zamani](https://github.com/xshigu)
 * [Ehsan Sajadi](https://github.com/ehsansajadi)
 * [Kamyab Abedi](https://github.com/KamyabAbedi)
 
