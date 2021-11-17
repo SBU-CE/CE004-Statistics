@@ -7,3 +7,5 @@
 | 02 - Pandas   | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ltbcp2UoHly4eSI_DcuvRhQT4Po1dFTk/view?usp=sharing) |
 | 03 - Matplotlib  |[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11ZSCzVekTuyGul605mlGXOjhZZNCODSV?usp=sharing)|
 | 04 - Example  |[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcPKQrWNLSLBLCH_A7AFihWzA7QGxqNS?usp=sharing)|
+
+*  And I'd like to make a special thanks to amir halaji.
