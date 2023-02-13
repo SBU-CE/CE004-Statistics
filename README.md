@@ -1,4 +1,4 @@
-# Statistics_TA
+# Statistics
 
 <div align='center'>
       <img src='icons/Statistics2.png' />
